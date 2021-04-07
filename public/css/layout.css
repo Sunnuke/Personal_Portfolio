@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #ff00ff; text-shadow: 0px 0px 10px #ff00ff; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -947,7 +947,7 @@ footer {
 }
 
 footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a:hover, footer a:focus { color: #00FFFF; text-shadow: 0px 0px 20px #00FFFF; }
 
 /* copyright */
 footer .copyright {
@@ -984,7 +984,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #00ffff;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
