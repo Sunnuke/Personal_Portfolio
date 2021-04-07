@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Web Developer, tech-savvy, cyberpunk fan boy, and veteran",
     "linkedinId":" https://linkedin.com/in/javier-c-rivera",
     "twitterId": "https://twitter.com/sunnuke",
-    "roleDescription": " I have basic knowledge and experience with Full Stack Development using Python, JAVA, MERN and I am passionate about the puzzles of creation with computer technology and like to learn about new technologies, and solve puzzle cubes or simply play games in my free time.",
+    "roleDescription": " I have basic knowledge and experience with Full Stack Development using Python, JAVA, MERN and I am passionate about the puzzles of creation with computer technology. Also I like to learn about new technologies, and solve puzzle cubes or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":'I am a Coding Dojo Coding Bootcamp graduate and a military veteran with 3 years of expertise in naval logistics I look forward to developing and delivering meaningful web applications and products that can help companies develop solutions to improve user experiences. My Motto is: "Never Believe that you are the Best, because you can always be Better." I say this because there is always room for improvement.',
+    "aboutme":'I am a Coding Dojo coding bootcamp graduate and a military veteran with 3 years of expertise in naval logistics. I look forward to developing and delivering meaningful web applications and products that can help companies develop solutions to improve user experiences. My Motto is: "Never Believe that you are the Best, because you can always be Better." I say this because there is always room for improvement.',
     "address":"San Diego, California",
     "website":"https://linkedin.com/in/javier-c-rivera",
     "email":" javiercr3xx@gmail.com",
